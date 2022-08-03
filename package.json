@@ -1,7 +1,7 @@
 {
   "name": "pavan.codes",
   "version": "0.1.0",
-  "homepage": "https://devpavan04.github.io/portfolio",
+  "homepage": "https://www.pavan.codes/",
   "private": true,
   "dependencies": {
     "@geist-ui/react": "^2.1.5",

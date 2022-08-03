@@ -43,9 +43,7 @@ function App() {
         {/* I am currently{' '}
           <i>BUIDLing</i> and contributing to Web3 at <i>Consenso Labs</i>. */}
         <Text p>
-          Hey there! I'm Pavan. I'm a Blockchain Engineer based out of Vancouver, Canada. I'm always looking for
-          valuable insights related to Science, Technology, and Philosophy. I like listening to smart people talk on
-          podcasts. And also, seeking wisdom excites me the most!
+          Hey there! I'm Pavan. I'm a Blockchain Engineer based out of Vancouver, Canada.
         </Text>
       </div>
       {/* Projects */}
